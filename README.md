@@ -32,24 +32,24 @@ The Summary dashboard provides a high-level overview of the loan portfolio's hea
 **B. Overview**
 The Overview dashboard presents a more detailed breakdown of loan performance across various dimensions.
 
-**Key Metrics:** Similar to the Summary, it displays the overall key metrics (Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, Avg DTI) with MTD and MoM comparisons.
+**1.Key Metrics:** Similar to the Summary, it displays the overall key metrics (Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, Avg DTI) with MTD and MoM comparisons.
 
-**Amount Received by Month:** A line chart showing the trend of total amount received over the months.
+**2.Amount Received by Month:** A line chart showing the trend of total amount received over the months.
 
-**Amount Received by State:** A map visualization indicating the total amount received from different states.
+**3.Amount Received by State:** A map visualization indicating the total amount received from different states.
 
-**Amount Received by Term:** A donut chart showing the distribution of total amount received by loan terms (e.g., 36 months, 60 months).
+**4.Amount Received by Term:** A donut chart showing the distribution of total amount received by loan terms (e.g., 36 months, 60 months).
 
-**Amount Received by Employee Length:** A bar chart illustrating the total amount received based on the employee's length of service.
+**5.Amount Received by Employee Length:** A bar chart illustrating the total amount received based on the employee's length of service.
 
-**Total Amount Received by Purpose:** A bar chart detailing the total amount received for various loan purposes (e.g., Debt Consolidation, Home Improvement, Credit Card).
+**6.Total Amount Received by Purpose:** A bar chart detailing the total amount received for various loan purposes (e.g., Debt Consolidation, Home Improvement, Credit Card).
 
-**Total Amount Received by Home Ownership:** A breakdown of the total amount received based on the borrower's home ownership status (Mortgage, Rent).
+**7.Total Amount Received by Home Ownership:** A breakdown of the total amount received based on the borrower's home ownership status (Mortgage, Rent).
 
 **C. Details**
 
 The Details dashboard allows for a granular view of individual loan records.
 
-**Key Metrics:** Displays the overall key metrics (Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, Avg DTI) with MTD and MoM comparisons.
+**1.Key Metrics:** Displays the overall key metrics (Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, Avg DTI) with MTD and MoM comparisons.
 
-**Loan Data Table:** A detailed table listing individual loan records with columns such as ID, Purpose, Home Ownership, Grade, Sub Grade, Issue Date, Installment, Loan Amount, Total Payment, and Interest Rate.
+**2.Loan Data Table:** A detailed table listing individual loan records with columns such as ID, Purpose, Home Ownership, Grade, Sub Grade, Issue Date, Installment, Loan Amount, Total Payment, and Interest Rate.
